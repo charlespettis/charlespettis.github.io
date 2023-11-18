@@ -48,7 +48,7 @@ setInterval(() => {
             cat.action = 'left';
             cat.element.classList.remove('move-right');
             cat.element.classList.add('move-left')
-        } else if( cat.action == 'left' && cat.x < 10) {
+        } else if( cat.action == 'left' && cat.x < -10) {
             cat.action = 'right';
             cat.element.classList.remove('move-left');
             cat.element.classList.add('move-right')
