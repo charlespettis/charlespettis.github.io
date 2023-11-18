@@ -14,9 +14,13 @@ h1,p{
 }
 h1{
     font-size: 42px;
+    margin-bottom: 0px;
 }
 p{
     font-size: 32px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
 }
 
 .row{
@@ -26,6 +30,7 @@ p{
     justify-content: space-between;
     padding-left:20px;
     padding-right: 20px;
+    margin-bottom: 0px;
 }
 
 .cat{
