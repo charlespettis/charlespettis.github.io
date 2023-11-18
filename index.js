@@ -65,6 +65,12 @@ setInterval(() => {
     }
 }, 33);
 
+paw.addEventListener('touchstart', () => {
+    paw.classList.add('active');
+});
+paw.addEventListener('touchend', () => {
+    paw.classList.remove('active');
+});
 
 setInterval(()=>{
     let cash = price.innerHTML;

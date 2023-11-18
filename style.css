@@ -65,6 +65,6 @@ p{
     transition: transform 0.1s ease; 
 }
 
-#paw:active {
-    transform: translate(-50%, -50%) scale(0.9); 
+#paw.active {
+    transform: translate(-50%, -50%) scale(0.9);
 }
