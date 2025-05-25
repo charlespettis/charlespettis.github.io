@@ -1,46 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Choretracks on </title>
+    <title>Bar Games</title>
     <link>/</link>
-    <description>Recent content in Choretracks on </description>
+    <description>Recent content on Bar Games</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/footer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/footer/</guid>
-      <description>&lt;h1 id=&#34;footer-configuration-field-explanation&#34;&gt;Footer Configuration Field Explanation&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;description&lt;/strong&gt;: A detailed description of the product or service that appears in the footer section. It explains the core features or benefits of the product, helping users understand what the service offers. In this case, it emphasizes the ease of building professional, secure websites with MDFriday.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;address&lt;/strong&gt;: The physical location of the company or service, displayed in the footer. Here, it shows &amp;ldquo;Wuhan, China.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;links&lt;/strong&gt;: A list of links to be displayed in the footer section. Each entry consists of a category, a link&amp;rsquo;s title, URL, and a flag indicating whether the link is ready to be used (&lt;code&gt;true&lt;/code&gt; means the link is ready, &lt;code&gt;false&lt;/code&gt; means the link is not yet ready and might trigger an action like &lt;code&gt;onclick&lt;/code&gt;). Links under the same category share the same category name but can have different URLs.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;Resources, Pricing, /pricing, false&amp;quot;&lt;/code&gt; means there is a &amp;ldquo;Resources&amp;rdquo; category with a link titled &amp;ldquo;Pricing&amp;rdquo; that leads to &lt;code&gt;/pricing&lt;/code&gt;, but it is not ready (likely will trigger an action instead of navigating).&lt;/li&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;Resources, Documentation, /docs, true&amp;quot;&lt;/code&gt; means there is a &amp;ldquo;Resources&amp;rdquo; category with a link titled &amp;ldquo;Documentation&amp;rdquo; that leads to &lt;code&gt;/docs&lt;/code&gt;, and it is ready for use.&lt;/li&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;Social Media, Bilibili, https://space.bilibili.com/491786455, true&amp;quot;&lt;/code&gt; means there is a &amp;ldquo;Social Media&amp;rdquo; category with a link titled &amp;ldquo;Bilibili&amp;rdquo; that leads to the provided URL, and it is ready to be used.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;notes&#34;&gt;Notes:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Links within the same category (e.g., multiple &amp;ldquo;Resources&amp;rdquo; links) are listed consecutively under the same category name.&lt;/li&gt;&#xA;&lt;li&gt;The category name (e.g., &amp;ldquo;Resources&amp;rdquo;) appears in the first position, followed by the link title, URL, and readiness flag.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>How to build an Application with modern Technology</title>
+      <link>/blog/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/post-1/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>/user-trust/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/user-trust/</guid>
-      <description>&lt;h1 id=&#34;user-trust-and-impact-field-explanation&#34;&gt;User Trust and Impact Field Explanation&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;title&lt;/strong&gt;: The main title for the page, typically describing the topic or theme of the section, in this case, &amp;ldquo;User Trust and Impact.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;trusted_count&lt;/strong&gt;: The number of users who trust the service. This field highlights how many users have adopted or endorsed the product, which can serve as social proof to build credibility.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;websites_created&lt;/strong&gt;: A description of the number of websites that have been created using the service. It emphasizes the impact and usage of the platform by showcasing how many websites have been powered by MDFriday.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>How to build an Application with modern Technology</title>
+      <link>/blog/post-2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/post-2/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ChoreTracks</title>
-      <link>/nav/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/nav/</guid>
-      <description>&lt;h1 id=&#34;navigation-configuration-field-explanation&#34;&gt;Navigation Configuration Field Explanation&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;title&lt;/strong&gt;: The main title for the navigation section, typically describing the purpose of the navigation configuration, in this case, &amp;ldquo;Navigation Configuration.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;logo_link&lt;/strong&gt;: The URL where the logo links to when clicked. This is typically the homepage or the main site URL, in this case, &amp;ldquo;&lt;a href=&#34;https://mdfriday.com/%22&#34;&gt;https://mdfriday.com/&amp;quot;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;logo_image&lt;/strong&gt;: The path to the logo image file used in the navigation bar. This is the image that will be displayed as the logo in the navigation, here it is &amp;ldquo;img/mdfriday.svg.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;left_links&lt;/strong&gt;: A list of links that will appear on the left side of the navigation bar. Each link is described by a title, URL, and a flag indicating whether the link is ready to be used (&lt;code&gt;true&lt;/code&gt; means the link is ready and functional, &lt;code&gt;false&lt;/code&gt; means the link is not ready, and may trigger an action like &lt;code&gt;onclick&lt;/code&gt; instead of a direct URL).&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;Themes, /themes, false&amp;quot;&lt;/code&gt; means there is a &amp;ldquo;Themes&amp;rdquo; link that leads to &lt;code&gt;/themes&lt;/code&gt;, but it is not yet ready (potentially triggering an action like &lt;code&gt;onclick&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;right_links&lt;/strong&gt;: A list of links that will appear on the right side of the navigation bar. Similar to &lt;code&gt;left_links&lt;/code&gt;, but typically used for links like &amp;ldquo;Contact Us,&amp;rdquo; external URLs, etc.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;Contact Us, mailto:service@mdfriday.com&amp;quot;&lt;/code&gt; means there is a &amp;ldquo;Contact Us&amp;rdquo; link that opens the user&amp;rsquo;s email client with the provided email address.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;buttons&lt;/strong&gt;: A list of buttons that can be displayed in the navigation bar. Each button is defined by a text label, URL or action link, and a flag indicating if it’s ready (&lt;code&gt;true&lt;/code&gt; means the button’s action or link is ready, &lt;code&gt;false&lt;/code&gt; means it is not ready and might trigger an action instead).&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;Get started, #, false&amp;quot;&lt;/code&gt; means there is a &amp;ldquo;Get started&amp;rdquo; button with a &lt;code&gt;#&lt;/code&gt; link that is not yet ready (potentially triggering an action like &lt;code&gt;onclick&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>How to build an Application with modern Technology</title>
+      <link>/blog/post-3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/post-3/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How Choretracks works</title>
-      <link>/how-to/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/how-to/</guid>
-      <description>&lt;h1 id=&#34;how-to-configuration-field-explanation&#34;&gt;How-To Configuration Field Explanation&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;title&lt;/strong&gt;: The main title of the page, which is displayed prominently to inform users about the page&amp;rsquo;s purpose. In this case, it provides an overview of how MDFriday works.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;subtitle&lt;/strong&gt;: A secondary line of text, usually used to provide additional context or details. It typically appears beneath the title and summarizes the key message. In this case, it gives a brief description of the process of converting MD files into websites quickly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;steps&lt;/strong&gt;: A list of steps to guide users through a process. Each step is represented as a string, and they are listed in order of execution. The format generally includes the step number, a short description, and any relevant instructions or actions to take.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;1 | Create chores and goals for your kids.&amp;quot;&lt;/code&gt; explains the first step, which is to install the MDFriday plugin in Obsidian.&lt;/li&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;2 | Create a Friday Note | Open a new note with MDFriday enabled.&amp;quot;&lt;/code&gt; provides instructions for the second step, creating a new note in Obsidian with MDFriday enabled.&lt;/li&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;3 | Preview | Select a theme, configure properties, and click Preview.&amp;quot;&lt;/code&gt; guides the user on how to preview the site with MDFriday.&lt;/li&gt;&#xA;&lt;li&gt;Example: &lt;code&gt;&amp;quot;4 | Deploy | Publish your site online at app.mdfriday.com.&amp;quot;&lt;/code&gt; explains the final step, which is to deploy the site after previewing it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;notes&#34;&gt;Notes:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;steps&lt;/strong&gt; are an ordered list of actions the user should take to use MDFriday. Each step includes a number, a title (action), and a brief description of the action.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>How to build an Application with modern Technology</title>
+      <link>/blog/post-4/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>/blog/post-4/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>MDFriday: Product introduction</title>
-      <link>/product/</link>
+      <title>Elements</title>
+      <link>/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/product/</guid>
-      <description>&lt;h1 id=&#34;product-field-explanation&#34;&gt;Product Field Explanation&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;title&lt;/strong&gt;: The theme of the current page in the browser.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;tagline&lt;/strong&gt;: A short slogan or subtitle that summarizes the core value or feature of the product.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;highlight&lt;/strong&gt;: A key advantage of the product, such as speed or ease of use, often used to capture the user&amp;rsquo;s attention.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;description&lt;/strong&gt;: A detailed explanation of the product, including its features, benefits, and use cases, helping users better understand the product.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;button_text&lt;/strong&gt;: The text displayed on the button, guiding the user to perform a specific action (e.g., sign up, create a website).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;button_link&lt;/strong&gt;: The link that the button directs to when clicked, leading to a specific page or process.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;freemium_text&lt;/strong&gt;: Text that promotes getting started for free, often used to encourage users to try the product for free or begin their journey.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;claimer1&lt;/strong&gt;: A statement emphasizing a product advantage or feature, such as &amp;ldquo;No coding required.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;claimer2&lt;/strong&gt;: Another statement or supplementary explanation highlighting another benefit or feature of the product.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>/elements/</guid>
+      <description>&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Table of Contents&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>John Doe</title>
+      <link>/authors/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/john-doe/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/privacy-policy/</guid>
+      <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sam Wilson</title>
+      <link>/authors/sam-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sam-wilson/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Users Are Saying About Hugoplate</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>William Jacob</title>
+      <link>/authors/william-jacob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/william-jacob/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
